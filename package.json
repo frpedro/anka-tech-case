@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "@hookform/resolvers": "^5.0.1",
+    "axios": "^1.9.0",
+    "react-hook-form": "^7.57.0",
+    "zod": "^3.25.51"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.21",
+    "postcss": "^8.5.4",
+    "tailwindcss": "^4.1.8"
+  }
+}
